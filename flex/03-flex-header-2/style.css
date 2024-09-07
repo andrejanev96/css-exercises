@@ -25,11 +25,9 @@ body {
   height: 48px;
 }
 
-.logo {
-  color: rebeccapurple;
-  font-size: 32px;
-  font-weight: 900;
-  font-style: italic;
+.logo img {
+  width: 100px;
+  height: 100px;
 }
 
 button {
